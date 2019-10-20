@@ -1,3 +1,5 @@
+variable "gcp_credentials" {}
+
 variable "project" {}
 
 variable "location" {
