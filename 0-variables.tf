@@ -12,3 +12,4 @@ variable "owner" {}
 
 variable "private_domain" {}
 
+variable "home_ip" {}
